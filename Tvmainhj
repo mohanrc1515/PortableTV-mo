@@ -33,8 +33,6 @@ https://link.zozotv.xyz:443/1234/1234/16
 https://link.zozotv.xyz:443/1234/1234/17
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-B
 https://link.zozotv.xyz:443/1234/1234/18
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-C" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-C
-https://link.zozotv.xyz:443/1234/1234/19
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="MALAYSIA",NTV7
 https://link.zozotv.xyz:443/1234/1234/20
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="MALAYSIA",8TV
@@ -63,18 +61,10 @@ https://link.zozotv.xyz:443/1234/1234/32
 https://link.zozotv.xyz:443/1234/1234/11
 #EXTINF:-1 tvg-id="" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-B
 https://link.zozotv.xyz:443/1234/1234/340
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-A
-https://link.zozotv.xyz:443/1234/1234/33
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-B" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-B
 https://link.zozotv.xyz:443/1234/1234/34
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-A" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-A
-https://link.zozotv.xyz:443/1234/1234/3
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-B" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-B
-https://link.zozotv.xyz:443/1234/1234/35
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-C" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-C
 https://link.zozotv.xyz:443/1234/1234/272
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-A
-https://link.zozotv.xyz:443/1234/1234/36
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-B" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-B
 https://link.zozotv.xyz:443/1234/1234/37
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="MALAYSIA",Aura
