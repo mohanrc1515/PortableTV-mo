@@ -2,7 +2,8 @@ EXTM3U
 url-tvg="https://bit.ly/MY-epg" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://bit.ly/ID-epg" refresh="1440" max-conn="1" refresh="24"
 
-
+#EXTINF:-1 type="Live" group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/MYZARtv/PortableTV/main/IMG_20220401_233144_137.jpg",Portable Live
+https://portableonedrive.vercel.app/api/raw/?path=/lv_0_20220401232950.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
