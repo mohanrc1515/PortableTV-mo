@@ -3,6 +3,9 @@ EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https:
 # https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
+#EXTINF:-1 type="Live" group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/MYZARtv/PortableTV/main/IMG_20220401_233144_137.jpg",Portable Live
+https://portableonedrive.vercel.app/api/raw/?path=/lv_0_20220401232950.mp4 
+
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
