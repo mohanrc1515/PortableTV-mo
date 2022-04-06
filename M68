@@ -1108,6 +1108,9 @@ https://asrazunifi.ddns.net:8443/ikim.m3u8
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
 https://sarawakfmmobile.secureswiftcontent
 
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/IMG_20220406_114827_087.jpg", Portable U Radio
+http://stream.zeno.fm/c3brexafunhvv
+
 #EXTINF:-1, group-title="Online TV" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
